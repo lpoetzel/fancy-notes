@@ -10,6 +10,9 @@ The body of the Note has inbuild Markdown support!
 
 Everything is saved to your local storage.
 
+# Demo 
+https://fancy-notes-pi.vercel.app/
+
 ## Technologies/dependencies
     React
     Typescript
